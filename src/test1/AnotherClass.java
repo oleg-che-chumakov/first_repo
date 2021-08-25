@@ -2,11 +2,11 @@ package test1;
 
 public class AnotherClass {
 	public static String getName() {
-		return "Oleg";
+		return "Oleg Chumakov";
 	}
 	
 	static int getAge() {
-		return 20;
+		return 15;
 	}
 
 }

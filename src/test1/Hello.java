@@ -10,5 +10,5 @@ public class Hello {
 		int age = AnotherClass.getAge();
 		System.out.println("Age = "+age);
 
-}
+	}
 }
